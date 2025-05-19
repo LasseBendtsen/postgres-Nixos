@@ -1,0 +1,9 @@
+1. Setting up postgres
+
+# Starting up posgres for the first time
+sudo -u postgres psql
+
+2. Running postgres
+
+# Running postgres
+to open localhost sudo pgadmin4
