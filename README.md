@@ -1,6 +1,6 @@
 # 🐘 PostgreSQL + pgAdmin4 Setup on NixOS
 
-This guide explains how to install and configure **PostgreSQL** and **pgAdmin4** on **NixOS**, using your system configuration and systemd services.
+This guide explains how to install and configure **PostgreSQL** and **pgAdmin4** on **NixOS**, using your system configuration.
 
 ---
 
@@ -71,7 +71,7 @@ CREATE DATABASE mydb OWNER myuser;
 Start the service:
 
 ```bash
-sudo systemctl start pgadmin4
+Sudo pgadmin4
 ```
 
 
